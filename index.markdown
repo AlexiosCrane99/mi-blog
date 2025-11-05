@@ -11,7 +11,4 @@ Aquí encontrarás el proyecto:
 
 ---
 
-{% for post in site.posts %}
-### 🗓️ [{{ post.title }}]({{ post.url }})
-Publicado el {{ post.date | date: "%d %B %Y" }}
-{% endfor %}
+### 🗓️ [Ir al análisis completo](https://alexioscrane99.github.io/mi-blog/2025/11/04/analisis-flujo-datos-simulado-con-spark.html)
