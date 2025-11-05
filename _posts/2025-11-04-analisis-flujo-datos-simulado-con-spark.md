@@ -3,6 +3,7 @@ layout: default
 title: "Análisis de Flujo de Datos Simulado con Spark"
 ---
 
+
 # 🔥 Análisis de Flujo de Datos Simulado con Spark
 
 > 💡 **Objetivo:**  

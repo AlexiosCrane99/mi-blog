@@ -1,19 +1,13 @@
 title: "Blog de Análisis de Datos"
 description: "Proyecto de flujo de clics con Spark y Jekyll"
-
-# Tema
 theme: jekyll-theme-cayman
 
-# Información del sitio para GitHub Pages
 url: "https://alexioscrane99.github.io"
 baseurl: "/mi-blog"
 
-
-# Asegura inclusión de tus assets personalizados
-include:
-  - assets
-
-# Configura las rutas de posts
 collections:
   posts:
     output: true
+
+include:
+  - assets
