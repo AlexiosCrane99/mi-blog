@@ -5,6 +5,7 @@ title: "Análisis de Flujo de Datos Simulado con Spark"
 
 
 # 🔥 Análisis de Flujo de Datos Simulado con Spark
+# Por Alessandro Diaz Mendoza
 
 > 💡 **Objetivo:**  
 > Aplicar analítica avanzada con **Apache Spark** para procesar un flujo de clics simulado en una tienda online de lectura digital.  
