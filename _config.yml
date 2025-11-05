@@ -3,6 +3,9 @@ description: "Proyecto de flujo de clics con Spark y Jekyll"
 author: "Alessandro Díaz M."
 theme: jekyll-theme-cayman
 
+url: "https://alexioscrane99.github.io"
+baseurl: "/mi-blog"
+
 # Configuración de baseurl vacía (para localhost)
 baseurl: ""
 url: "http://localhost:4000"
@@ -15,3 +18,5 @@ include:
 # Plugins opcionales
 plugins:
   - jekyll-feed
+
+
