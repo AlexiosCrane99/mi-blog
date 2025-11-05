@@ -126,4 +126,4 @@ Ejemplo: ventas diarias	Ejemplo: clics en vivo
 🚀 En 2025, la analítica en streaming es esencial para las empresas digitales.
 Permite adaptarse rápidamente a las necesidades y hábitos de los usuarios.
 
-<footer style="text-align:center; font-size:0.9em; color:#777;"> Hecho con ❤️ usando Jekyll + Spark | Proyecto de <strong>Alessandro Díaz M.</strong> </footer> ```
+<footer style="text-align:center; font-size:0.9em; color:#777;"> Hecho usando Jekyll + Spark | Proyecto de <strong>Alessandro Díaz M.</strong> </footer> 
