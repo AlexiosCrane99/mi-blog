@@ -27,7 +27,7 @@ La tienda necesita detectar patrones de navegación para:
 
 ## 📊 2. Dataset
 
-![📄 Tabla Ejemplo del Dataset](/assets/images/Dataset_Clicks.png)
+![Tabla Ejemplo del DataSet]({{ '/assets/images/Dataset_Clicks.png' | relative_url }})
 
 **Columnas principales:**
 
@@ -112,7 +112,7 @@ Activar GitHub Pages.
 
 Agregar este post en _posts/2025-11-04-analisis-flujo-datos-spark.md.
 
-![Gráfico de clics por usuario](/assets/images/clicks.png)
+![Gráfico de clics por usuario]({{ '/assets/images/clicks.png' | relative_url }})
 
 💭 7. Reflexión Final
 🔄 ¿Streaming o Batch?

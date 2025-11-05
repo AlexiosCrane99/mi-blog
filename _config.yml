@@ -1,22 +1,18 @@
 title: "Blog de Análisis de Datos"
 description: "Proyecto de flujo de clics con Spark y Jekyll"
-author: "Alessandro Díaz M."
+
+# Tema
 theme: jekyll-theme-cayman
 
+# Información del sitio para GitHub Pages
 url: "https://alexioscrane99.github.io"
 baseurl: "/mi-blog"
 
-# Configuración de baseurl vacía (para localhost)
-baseurl: ""
-url: "http://localhost:4000"
-
-# Incluir posts y páginas
+# Asegura inclusión de tus assets personalizados
 include:
-  - _posts
   - assets
 
-# Plugins opcionales
-plugins:
-  - jekyll-feed
-
-
+# Configura las rutas de posts
+collections:
+  posts:
+    output: true
